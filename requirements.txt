@@ -1,5 +1,7 @@
-numpy
+numpy==1.24.4  # or another version < 2.0, >= 1.16.0
 pandas
 seaborn
-
+scikit-learn
+catboost
+xgboost
 -e .
